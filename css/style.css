@@ -238,6 +238,9 @@ input:checked + .slider:before {
   .wrapper {
     max-width: none;
   }
+  .header {
+    padding-bottom: 100px;
+  }
   .headerGrid {
     display: flex;
     justify-content: space-between;
